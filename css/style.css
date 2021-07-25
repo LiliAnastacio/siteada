@@ -8,19 +8,21 @@ body{
 }
 
 h1{
-  font-size:60px;
+  font-size:80px;
   font-weight:300;
+  font-family: Dancing script, cursive;
 }
 
 h2{
   color:#2a0074;
-  font-size: 40px;  
+  font-size: 60px;
+  font-family: Dancing script, cursive;
   }
 
 h3{
   font-size:22px;
   font-style:italic;
-}
+ }
 
 p{
   font-size:20px;
@@ -51,6 +53,9 @@ img{
 ul{
   list-style-type:none;
   padding-left:0;
+  font-family: Dancing script, cursive;
+  font-size: 27px;
+  font-weight: 0;
 }
 
 a{
@@ -85,6 +90,6 @@ button{
   }
 
   form{
-    
+  
     
   }
